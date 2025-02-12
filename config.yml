@@ -10,4 +10,9 @@ minima:
     
 header_pages:
     - index.md
+    - plaza.md
+    - oz.md
+    - gorongosa.md
+    - africa.md
+    - education.md
   
