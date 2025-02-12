@@ -22,3 +22,23 @@ Your browser does not support the audio element.
   <br>
 <img src="pics/gibbons.jpg" class="inline"/>
 </details>
+
+<details><summary>Sarus Crane</summary>
+  <br>
+Zoo Boise has one sarus crane:
+  <br>
+- Claudia gets very excited when her keepers are nearby, and she frequently dances for them. She also makes a trumpeting sound that could be mistaken for elephants.
+  <br>
+  <br>
+<img src="pics/sarus_crane.jpg" class="inline"/>
+</details>
+
+<details><summary>Southern Ground Hornbill</summary>
+  <br>
+Zoo Boise has one southern ground hornbill in the plaza:
+  <br>
+- Toogle is a favorite of guests, volunteers, and staff! He was hand-raised due to special circumstances, so he loves showing off his treasures and food (typically a mouse or chick) to shocked guests. He makes a distinctive booming sound, which can be heard in the surrounding areas.
+  <br>
+  <br>
+<img src="pics/toogle.jpg" class="inline"/>
+</details>
