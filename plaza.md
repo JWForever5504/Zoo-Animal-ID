@@ -1,0 +1,4 @@
+---
+title: Plaza
+permalink: /plaza
+---
