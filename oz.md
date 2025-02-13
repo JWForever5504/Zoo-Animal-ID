@@ -13,6 +13,26 @@ Zoo Boise has one snow leopard:
 <img src="pics/sabu.jpg" class="inline"/>
 </details>
 
+<details><summary>Sloth Bear</summary>
+  <br>
+Zoo Boise has one sloth bear:
+  <br>
+- Paji is a female sloth bear. She is often moody, and only does things if she wants to. The Sloth Bear Encounter is an opportunity to feed her mealworms through a tube, but she frequently chooses not to participate, or takes a lot of coaxing to do so.
+  <br>
+  <br>
+<img src="pics/paji.jpg" class="inline"/>
+</details>
+
+<details><summary>Steller's Sea Eagle</summary>
+  <br>
+Zoo Boise has one sea eagle:
+  <br>
+- Vlad is a male sea eagle. He can occasionally be heard screeching, which is audible throughout the surrounding areas.
+  <br>
+  <br>
+<img src="pics/vlad.jpg" class="inline"/>
+</details>
+
 <details><summary>Amur Tiger</summary>
   <br>
 Zoo Boise has one tiger:
