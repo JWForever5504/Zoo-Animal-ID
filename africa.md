@@ -68,7 +68,7 @@ Zoo Boise has two nyala:
   The nyala share an exhibit with the southern ground hornbills
   <br>
   <br>
-<img src="pics/nyala.jpg" class="inline"/>
+<img src="pics/nyala.png" class="inline"/>
 </details>
 
 <details><summary>Southern Ground Hornbills</summary>
