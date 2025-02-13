@@ -59,5 +59,5 @@ Zoo Boise has two Styan's red pandas:
 - Stevie is the female, and is a bit defensive of her indoor area, often not allowing Jasper to come in. She is most frequently near the back of her exhibit or inside.
   <br>
   <br>
-<img src="pics/styans.jpg" class="inline"/>
+<img src="pics/styans.png" class="inline"/>
 </details>
