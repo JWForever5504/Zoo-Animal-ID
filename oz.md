@@ -61,3 +61,26 @@ Zoo Boise has two Styan's red pandas:
   <br>
 <img src="pics/styans.png" class="inline"/>
 </details>
+
+<details><summary>Zoo Farm</summary>
+  <br>
+Zoo Boise has many goats:
+  <br>
+- Kermit is a mixed breed goat. He is mostly white, except for light brown sides of his face.
+  <br>
+- Mouse is a mixed breed goat. He is mostly white except for his dark brown sides of his face and a large brown spot on his chest.
+  <br>
+- Maverick is a mixed breed goat. He is mostly white, except for his light brown sides of his face and two large brown spots 
+ on the back of his neck.
+  <br>
+- Goose is a mixed breed goat. He is mostly white, except for two small brown spots on the left of his neck and some pale tan coloring on his face.
+  <br>
+- Ross is an Oberhasli-Brienz goat. He is mostly dark brown, except for his white legs.
+  <br>
+- Maddie is small, mostly black, except for a thin white stripe down the center of her nose.
+  <br>
+- Star is small and all black with no white stripes.
+  <br>
+  <br>
+<img src="pics/goats.png" class="inline"/>
+</details>
