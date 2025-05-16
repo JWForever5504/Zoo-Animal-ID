@@ -30,7 +30,7 @@ Kabita passed away in November 2024 after a long and well-publicized battle with
 
 <details><summary>Vinnie the Warthog</summary>
   <br>
-Vinnie passed away in October 2024 due to age-related health issues. He took medication for arthritis in three legs wrapped in a tortilla dipped in peanut butter and covered in melon sauce. He lived in the currently empty exhibit between the vulture and nyalas.
+Vinnie passed away in October 2024 due to age-related health issues. He took medication for arthritis in three legs wrapped in a tortilla dipped in peanut butter and covered in melon sauce. He lived in the currently empty exhibit east of the nyalas and hornbills.
   <br>
   <a href="https://zooboise.org/zoo-news/mourning-loss-of-warthog-vinnie/">Press Release</a>
 </details>
