@@ -2,6 +2,9 @@
 title: Plaza
 permalink: /plaza
 ---
+
+<img src="pics/plaza_map.png" class="inline"/>
+
 <details><summary>White-Handed Gibbons</summary>
   <br>
 Zoo Boise has two gibbons:
@@ -47,13 +50,13 @@ Zoo Boise has one southern ground hornbill in the plaza:
   <br>
 Zoo Boise has three Chinese red pandas, a pair and an individual:
   <br>
-- Jasper is the male in the pair, and is missing some front teeth, leading to his tongue sticking out most of the time. He is more red in coloring than Stevie and likes to nest in one of the doors to the bridge.
+- Jasper is the male in the pair, and is missing some front teeth, leading to his tongue sticking out most of the time. He is more red in coloring than Stevie and likes to nest in one of the doors to the bridge. He was born in 2015 at the Lincoln Park Zoo and moved here in May 2023.
   <br>
-- Stevie is the female in the pair. She is much more active than Jasper, but also likes to nest in one of the doors to the bridge.
+- Stevie is the female in the pair. She is much more active than Jasper, but also likes to nest in one of the doors to the bridge. She was born in 2022 at the Milwaukee County Zoo and moved here in May 2023.
   <br>
 <img src="pics/styans.png" class="inline"/>
   <br>
-- The zoo also has one unamed female Chinese Red Panda. She will most likely receive a name at Zoobilee. She is the youngest of both the Chinese and Himalayan Red Pandas. Additionally, she will be matched with mate at a future date.
+- The zoo also has one unamed female Chinese Red Panda. She will likely receive a name at Zoobilee. She is the youngest of both the Chinese and Himalayan Red Pandas. Additionally, she will be matched with mate at a future date. She was born in 2024 at the Lincoln Park Zoo and moved here in April 2025. 
   <br>
   <br>
 <img src="pics/new_chinese.JPEG" class="inline"/>
@@ -63,7 +66,7 @@ Zoo Boise has three Chinese red pandas, a pair and an individual:
   <br>
 Zoo Boise has one Himalayan red panda:
   <br>
-- The zoo also has one unamed male Himalayan Red Panda. He overgrooms himself, which has caused his lower half to have less dense hair. This does not cause him harm, and all tests by veterinarians show he is happy and healthy. Guests WILL ask about this, though. He will most likely receive a name at Zoobilee.
+- The zoo also has one unamed male Himalayan Red Panda. He overgrooms himself, which has caused his lower half to have less dense hair. This does not cause him harm, and all tests by veterinarians show he is happy and healthy. Guests WILL ask about this, though. He will likely receive a name at Zoobilee. Additionally, he will be matched with mate at a future date. He was born in 2015 at the Rosamond Gifford Zoo and moved here in May 2023.
   <br>
   <br>
 <img src="pics/himalayan.JPEG" class="inline"/>
