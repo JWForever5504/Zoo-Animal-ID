@@ -42,3 +42,29 @@ Zoo Boise has one southern ground hornbill in the plaza:
   <br>
 <img src="pics/toogle.jpg" class="inline"/>
 </details>
+
+<details><summary>Chinese Red Pandas</summary>
+  <br>
+Zoo Boise has three Chinese red pandas, a pair and an individual:
+  <br>
+- Jasper is the male in the pair, and is missing some front teeth, leading to his tongue sticking out most of the time. He is more red in coloring than Stevie and likes to nest in one of the doors to the bridge.
+  <br>
+- Stevie is the female in the pair. She is much more active than Jasper, but also likes to nest in one of the doors to the bridge.
+  <br>
+<img src="pics/styans.png" class="inline"/>
+  <br>
+- The zoo also has one unamed female Chinese Red Panda. She will most likely receive a name at Zoobilee. She is the youngest of both the Chinese and Himalayan Red Pandas. Additionally, she will be matched with mate at a future date.
+  <br>
+  <br>
+<img src="pics/new_chinese.JPEG" class="inline"/>
+</details>
+
+<details><summary>Himalayan Red Pandas</summary>
+  <br>
+Zoo Boise has one Himalayan red panda:
+  <br>
+- The zoo also has one unamed male Himalayan Red Panda. He overgrooms himself, which has caused his lower half to have less dense hair. This does not cause him harm, and all tests by veterinarians show he is happy and healthy. Guests WILL ask about this, though. He will most likely receive a name at Zoobilee.
+  <br>
+  <br>
+<img src="pics/himalayan.JPEG" class="inline"/>
+</details>
