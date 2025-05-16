@@ -50,18 +50,6 @@ Your browser does not support the audio element.
 <img src="pics/akasha.jpg" class="inline"/>
 </details>
 
-<details><summary>Styan's Red Pandas</summary>
-  <br>
-Zoo Boise has two Styan's red pandas:
-  <br>
-- Jasper is the male, and is missing some front teeth, leading to his tongue sticking out most of the time.
-  <br>
-- Stevie is the female, and is a bit defensive of her indoor area, often not allowing Jasper to come in. She is most frequently near the back of her exhibit or inside.
-  <br>
-  <br>
-<img src="pics/styans.png" class="inline"/>
-</details>
-
 <details><summary>Zoo Farm</summary>
   <br>
 Zoo Boise has many goats:
@@ -76,11 +64,6 @@ Zoo Boise has many goats:
 - Goose is a mixed breed goat. He is mostly white, except for two small brown spots on the left of his neck and some pale tan coloring on his face.
   <br>
 - Ross is an Oberhasli-Brienz goat. He is mostly dark brown, except for his white legs.
-  <br>
-- Maddie is small, mostly black, except for a thin white stripe down the center of her nose.
-  <br>
-- Star is small and all black with no white stripes.
-  <br>
   <br>
 <img src="pics/goats.png" class="inline"/>
 </details>
