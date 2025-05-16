@@ -3,6 +3,7 @@ title: African Plains
 permalink: /africa
 ---
 
+<img src="pics/ap_map.png" class="inline"/>
 
 <details><summary>Servals</summary>
   <br>
@@ -50,8 +51,6 @@ Zoo Boise has two bat-eared foxes:
   <br>
 - Fletcher
   <br>
-- Raha
-  <br>
   <br>
 <img src="pics/bat_eared_foxes.jpg" class="inline"/>
 </details>
@@ -96,4 +95,28 @@ Zoo Boise has two zebra:
   <br>
   <br>
 <img src="pics/zebras.jpg" class="inline"/>
+</details>
+
+<details><summary>Magellanic Penguins</summary>
+  <br>
+Zoo Boise has 10 penguins. They are identified by colors bands on their wings. Bands on the left wing mean the bird is a male, and bands on the right wing mean the bird is a female. "Females are always right."
+  <br>
+- Jimmy has Orange and Blue bands on his Left wing (BSU Colors)
+  <br>
+- Rose has two White bands on her Right wing
+  <br>
+- Bocelli has two Yellow bands on his Left wing
+  <br>
+- Puddin has Purple and Green bands on his Left wing
+  <br>
+- Kusi has a Pink band on her Right wing
+  <br>
+- Lois has Pink and Yellow bands on her Right Wing
+  <br>
+- Milo has Blue and White bands on his Left wing
+  <br>
+- Daisy has Yellow and Green bands on her Right wing
+  <br>
+  <br>
+<img src="pics/penguin.jpg" class="inline"/>
 </details>
