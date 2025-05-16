@@ -59,7 +59,7 @@ Zoo Boise has three Chinese red pandas, a pair and an individual:
 <img src="pics/new_chinese.JPEG" class="inline"/>
 </details>
 
-<details><summary>Himalayan Red Pandas</summary>
+<details><summary>Himalayan Red Panda</summary>
   <br>
 Zoo Boise has one Himalayan red panda:
   <br>
