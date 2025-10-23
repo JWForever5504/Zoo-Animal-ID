@@ -3,7 +3,7 @@ title: Recent Animals Deaths
 permalink: /recent-losses
 ---
 
-As with all living things, the animals that call Zoo Boise home do pass away. Listed are the deaths that guests are likely to ask about, in order of most recent. Links to a press release will be given if applicable.
+As with all living things, the animals that call Zoo Boise home do pass away. Listed are the deaths that guests are likely to ask about, in order of most recent to least recent. Links to a press release will be given if applicable.
 
 <details><summary>Ndale the Striped Hyena</summary>
   <br>
