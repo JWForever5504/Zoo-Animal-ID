@@ -1,1 +1,1 @@
-Test
+<meta name="robots" content="noindex">
