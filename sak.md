@@ -3,7 +3,7 @@ title: Small Animal Kingdom
 permalink: /sak/
 ---
 
-<img src="pics/sak_map.png" class="inline"/>
+<img src="pics/map/sak_map.png" class="inline"/>
 
 <details><summary>Aldabra Tortoise</summary>
   <br>

@@ -3,7 +3,7 @@ title: Old Zoo
 permalink: /oz/
 ---
 
-<img src="pics/oz_map.png" class="inline"/>
+<img src="pics/map/oz_map.png" class="inline"/>
 
 <details><summary>Snow Leopard</summary>
   <br>

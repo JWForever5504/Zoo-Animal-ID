@@ -3,7 +3,7 @@ title: African Plains & Penguin Area
 permalink: /africa/
 ---
 
-<img src="pics/ap_map.png" class="inline"/>
+<img src="pics/map/ap_map.png" class="inline"/>
 
 <details><summary>Serval</summary>
   <br>

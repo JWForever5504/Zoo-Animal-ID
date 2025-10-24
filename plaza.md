@@ -3,7 +3,7 @@ title: Plaza
 permalink: /plaza/
 ---
 
-<img src="pics/plaza_map.png" class="inline"/>
+<img src="pics/map/plaza_map.png" class="inline"/>
 
 <details><summary>White-Handed Gibbons</summary>
   <br>
