@@ -52,7 +52,7 @@ Zoo Boise has two spider monkeys:
 
 <details><summary>Grand Cayman Blue Iguana</summary>
   <br>
-Zoo Boise will, at some point in the next few months, receive a male blue iguana. Once he is comfortable, a female may be brought for a breeding pair. Blue iguanas are critically endangered, but have some of the easiest and most successful reintroductions. Unlike most animals, an individual born in zoos can be reintroduced under specific circumstances, without needing a multi-generational introduction like many species.
+Zoo Boise will, at some point in the next few months, receive a male blue iguana. Once he is comfortable, a female may be brought for a breeding pair. Blue iguanas are critically endangered, but have some of the easiest and most successful reintroductions. Unlike most animals, an iguana born in zoos can be reintroduced under specific circumstances, without needing a multi-generational introduction like many species.
   <br>
 </details>
 
