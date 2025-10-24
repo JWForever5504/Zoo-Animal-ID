@@ -18,7 +18,7 @@ Zoo Boise has two Aldabra tortoises:
 <img src="pics/aldabra_tortoises.jpg" class="inline"/>
 </details>
 
-<details><summary>Sand Cats</summary>
+<details><summary>Sand Cat</summary>
   <br>
 Zoo Boise has two sand cats:
   <br>
@@ -27,10 +27,10 @@ Zoo Boise has two sand cats:
 - Simba is the bigger male. He is somewhat stocky, which is much more obvious when they are near each other.
   <br>
   <br>
-<img src="pics/sand_cats.jpg" class="inline"/>
+<img src="pics/sand_cats.png" class="inline"/>
 </details>
 
-<details><summary>Spider Monkeys</summary>
+<details><summary>Spider Monkey</summary>
   <br>
 Zoo Boise has two spider monkeys:
   <br>
@@ -66,10 +66,78 @@ Zoo Boise will, at some point in the next few months, receive a male two-toed sl
   <br>
 Zoo Boise has one prehensile-tailed porcupine:
   <br>
-- Ozzy is a male porcupine. 
+- Ozzy is a male. 
   <br>
   As a nocturnal animal, he is often asleep for much of the day. He will be much more active in the morning, late afternoon/evening, and during feeding/training
   <br>
   <br>
 <img src="pics/ozzy.jpg" class="inline"/>
+</details>
+
+<details><summary>Prehensile-Tailed Skink</summary>
+  <br>
+Zoo Boise has one prehensile-tailed skink:
+  <br>
+- Clarence is a male. 
+  <br>
+  <br>
+<img src="pics/clarence.jpg" class="inline"/>
+</details>
+
+<details><summary>Green Tree Python</summary>
+  <br>
+Zoo Boise has one prehensile-tailed skink:
+  <br>
+- Stem is a female. 
+  <br>
+  <br>
+<img src="pics/stem.jpg" class="inline"/>
+</details>
+
+<details><summary>Madagascar Hissing Cockroach</summary>
+  <br>
+Zoo Boise has a large amount of Madagascar Hissing Cockroaches:
+  <br>
+- There are both males and females
+  <br>
+- Small, white cockroaches are juveniles who have recently molted. They regain pigment within a few hours, and are not albino
+  <br>
+  <br>
+<img src="pics/cockroaches.jpg" class="inline"/>
+</details>
+
+<details><summary>Cotton Top Tamarin</summary>
+  <br>
+Zoo Boise has five cotton top tamarins:
+  <br>
+- Mimi is a female and the mother of the other four. The tops of her eyes slant inwards, making them look like "tired mama eyes"
+  <br>
+- Rockford is the oldest male born to Mimi.
+  <br>
+- Suki is a female. She has a twin brother, Momo.
+  <br>
+- Momo is a male. He has a twin sister, Suki.
+  <br>
+- Jazzy is the youngest female born to Mimi.
+  <br>
+  <br>
+<img src="pics/tamarins.jpg" class="inline"/>
+</details>
+
+<details><summary>Slender-Tailed Meerkat</summary>
+  <br>
+Zoo Boise has a five meerkats:
+  <br>
+- Kijani is the oldest male. He has more prominent markings around his eyes
+  <br>
+- Peanut is the oldest female. She is the largest meerkat
+  <br>
+- Bart is a male. He is one of Kijani and Peanut's triplets
+  <br>
+- Quinn is a male. He is one of Kijani and Peanut's triplets
+  <br>
+- Twitch is a male. He is one of Kijani and Peanut's triplets
+  <br>
+  <br>
+<img src="pics/meerkats.jpg" class="inline"/>
 </details>
