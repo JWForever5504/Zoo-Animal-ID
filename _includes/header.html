@@ -1,15 +1,15 @@
 <header class="site-header">
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
+    
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
-
-   {% for page in site.pages %}
-  {% if page.title %}
-    <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
-  {% endif %}
-{% endfor %}
+    <a class="page-link" href="{{ '/plaza/' | relative_url }}">Plaza</a>
+    <a class="page-link" href="{{ '/oz/' | relative_url }}">Old Zoo</a>
+    <a class="page-link" href="{{ '/sak/' | relative_url }}">Small Animal Kingdom</a>
+    <a class="page-link" href="{{ '/africa/' | relative_url }}">African Plains</a>
+    <a class="page-link" href="{{ '/gorongosa/' | relative_url }}">Gorongosa</a>
+    <a class="page-link" href="{{ '/education/' | relative_url }}">Education Animals</a>
   </div>
 </header>
