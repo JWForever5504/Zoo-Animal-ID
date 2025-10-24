@@ -37,7 +37,7 @@ Zoo Boise has one sea eagle:
   <br>
 Zoo Boise has one tiger:
   <br>
-- Akasha is an older female tiger. She moved to the zoo when she was no longer able to participate in an SSP (Species Surival Plan). She lives here because our zoo can't support cubs, and that opens up a space for cub-bearing females at other institutions.
+- Akasha is an older female tiger. She moved to the zoo because her genetics were well represent in AZA zoos, which didn't allow her to participate in an SSP (Species Surival Plan). She lives here because our zoo can't support cubs, and that opens up a space for cub-bearing females at other institutions.
   <br>
   <br>
   Akasha's chuffing:
@@ -54,14 +54,14 @@ Your browser does not support the audio element.
   <br>
 Zoo Boise has many goats:
   <br>
-- Kermit is a mixed breed goat. He is mostly white, except for light brown sides of his face.
+- Kermit is a mixed breed goat, with a large portion of the Boer breed. He is mostly white, except for light brown sides of his face.
   <br>
-- Mouse is a mixed breed goat. He is mostly white except for his dark brown sides of his face and a large brown spot on his chest.
+- Mouse is a mixed breed goat, with a large portion of the Boer breed. He is mostly white except for his dark brown sides of his face and a large brown spot on his chest.
   <br>
-- Maverick is a mixed breed goat. He is mostly white, except for his light brown sides of his face and two large brown spots 
+- Maverick is a mixed breed goat, with a large portion of the Boer breed. He is mostly white, except for his light brown sides of his face and two large brown spots 
  on the back of his neck.
   <br>
-- Goose is a mixed breed goat. He is mostly white, except for two small brown spots on the left of his neck and some pale tan coloring on his face.
+- Goose is a mixed breed goat, with a large portion of the Boer breed. He is mostly white, except for two small brown spots on the left of his neck and some pale tan coloring on his face.
   <br>
 - Ross is an Oberhasli-Brienz goat. He is mostly dark brown, except for his white legs.
   <br>
