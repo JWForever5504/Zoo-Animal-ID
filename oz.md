@@ -3,7 +3,7 @@ title: Old Zoo
 permalink: /oz/
 ---
 
-<img src="pics/map/oz_map.png" class="inline"/>
+<img src="/pics/map/oz_map.png" class="inline"/>
 
 <details><summary>Snow Leopard</summary>
   <br>
@@ -12,7 +12,7 @@ Zoo Boise has one snow leopard:
 - Sabu
   <br>
   <br>
-<img src="pics/sabu.jpg" class="inline"/>
+<img src="/pics/sabu.jpg" class="inline"/>
 </details>
 
 <details><summary>Sloth Bear</summary>
@@ -22,7 +22,7 @@ Zoo Boise has one sloth bear:
 - Paji is a female sloth bear. She is often moody, and only does things if she wants to. The Sloth Bear Encounter is an opportunity to feed her mealworms through a tube, but she frequently chooses not to participate, or takes a lot of coaxing to do so.
   <br>
   <br>
-<img src="pics/paji.jpg" class="inline"/>
+<img src="/pics/paji.jpg" class="inline"/>
 </details>
 
 <details><summary>Steller's Sea Eagle</summary>
@@ -32,7 +32,7 @@ Zoo Boise has one sea eagle:
 - Vlad is a male sea eagle. He can occasionally be heard screeching, which is audible throughout the surrounding areas.
   <br>
   <br>
-<img src="pics/vlad.jpg" class="inline"/>
+<img src="/pics/vlad.jpg" class="inline"/>
 </details>
 
 <details><summary>Amur Tiger</summary>
@@ -49,7 +49,7 @@ Zoo Boise has one tiger:
   <source src="sounds/akasha.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-<img src="pics/akasha.jpg" class="inline"/>
+<img src="/pics/akasha.jpg" class="inline"/>
 </details>
 
 <details><summary>Zoo Farm</summary>
@@ -67,5 +67,5 @@ Zoo Boise has many goats:
   <br>
 - Ross is an Oberhasli-Brienz goat. He is mostly dark brown, except for his white legs.
   <br>
-<img src="pics/goats.png" class="inline"/>
+<img src="/pics/goats.png" class="inline"/>
 </details>

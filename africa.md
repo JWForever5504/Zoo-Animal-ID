@@ -3,7 +3,7 @@ title: African Plains & Penguin Area
 permalink: /africa/
 ---
 
-<img src="pics/map/ap_map.png" class="inline"/>
+<img src="/pics/map/ap_map.png" class="inline"/>
 
 <details><summary>Serval</summary>
   <br>
@@ -12,7 +12,7 @@ Zoo Boise has one serval:
 - Scout
   <br>
   <br>
-<img src="pics/servals.jpg" class="inline"/>
+<img src="/pics/servals.jpg" class="inline"/>
 </details>
 <details><summary>African Lion</summary>
   <br>
@@ -30,7 +30,7 @@ Zoo Boise has two lions:
   <source src="sounds/revan.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-<img src="pics/lions.jpg" class="inline"/>
+<img src="/pics/lions.jpg" class="inline"/>
 </details>
 
 <details><summary>Patas Monkey</summary>
@@ -44,7 +44,7 @@ Zoo Boise has three patas monkeys:
 - Moka is the younger female and the child of Incus and DJ. She is rounder than the other two.
   <br>
   <br>
-<img src="pics/patas_monkeys.jpg" class="inline"/>
+<img src="/pics/patas_monkeys.jpg" class="inline"/>
 </details>
 
 <details><summary>Reticulated Giraff</summary>
@@ -56,7 +56,7 @@ Zoo Boise has two giraffes:
 - Tafari is the younger male. His patches are lighter and non-solid.
   <br>
   <br>
-<img src="pics/giraffes.jpg" class="inline"/>
+<img src="/pics/giraffes.jpg" class="inline"/>
 </details>
 
 <details><summary>Bat-Eared Foxes</summary>
@@ -66,7 +66,7 @@ Zoo Boise has one bat-eared fox:
 - Fletcher
   <br>
   <br>
-<img src="pics/bat_eared_fox.jpg" class="inline"/>
+<img src="/pics/bat_eared_fox.jpg" class="inline"/>
 </details>
 
 <details><summary>Lowland Nyala</summary>
@@ -81,7 +81,7 @@ Zoo Boise has two nyala:
   The nyala share an exhibit with the southern ground hornbills
   <br>
   <br>
-<img src="pics/nyala.png" class="inline"/>
+<img src="/pics/nyala.png" class="inline"/>
 </details>
 
 <details><summary>Southern Ground Hornbills</summary>
@@ -96,7 +96,7 @@ Zoo Boise has two southern ground hornbills in the African Plains exhibits:
   The southern ground hornbills share an exhibit with the nyala.
   <br>
   <br>
-<img src="pics/ap_hornbills.jpg" class="inline"/>
+<img src="/pics/ap_hornbills.jpg" class="inline"/>
 </details>
 
 <details><summary>Magellanic Penguins</summary>
@@ -120,7 +120,7 @@ Zoo Boise has 8 penguins. They are identified by colors bands on their wings. Ba
 - Daisy has Yellow and Green bands on her Right wing
   <br>
   <br>
-<img src="pics/penguin.jpg" class="inline"/>
+<img src="/pics/penguin.jpg" class="inline"/>
 </details>
 
 <details><summary>Inca Tern</summary>
@@ -134,7 +134,7 @@ Zoo Boise has three inca terns:
 - Chico has a blue band on both legs.
   <br>
   <br>
-<img src="pics/inca_terns.jpg" class="inline"/>
+<img src="/pics/inca_terns.jpg" class="inline"/>
 </details>
 
 <details><summary>Grevy's Zebra</summary>
@@ -146,7 +146,7 @@ Zoo Boise has two zebra:
 - Hope is the female. She has a very short stripe on her left flank.
   <br>
   <br>
-<img src="pics/zebras.jpg" class="inline"/>
+<img src="/pics/zebras.jpg" class="inline"/>
 </details>
 
 <details><summary>Red-Tailed Hawk</summary>
@@ -158,7 +158,7 @@ Zoo Boise has one red-tailed hawk:
   As with all red-tailed hawks, she is only allowed to be kept under human care to an injury that prevents her from flying. Guests often ask if she has enough room, but because of her inability to fly, she does.
   <br>
   <br>
-<img src="pics/hawk.jpg" class="inline"/>
+<img src="/pics/hawk.jpg" class="inline"/>
 </details>
 
 <details><summary>Great Horned Owl</summary>
@@ -170,7 +170,7 @@ Zoo Boise has one great horned owl:
   As with all great horned owls, he is only allowed to be kept under human care to an injury that prevents her from flying. His right wing visibly droops down because of this.
   <br>
   <br>
-<img src="pics/owl.jpg" class="inline"/>
+<img src="/pics/owl.jpg" class="inline"/>
 </details>
 
 <details><summary>Kinkajou</summary>
@@ -184,7 +184,7 @@ Zoo Boise has one kinkajou:
   As a nocturnal animal, he is rarely seen by guests except during training, feeding, and evening events.
   <br>
   <br>
-<img src="pics/kinkajou.jpg" class="inline"/>
+<img src="/pics/kinkajou.jpg" class="inline"/>
 </details>
 
 <details><summary>Grevy's Zebra</summary>
@@ -196,7 +196,7 @@ Zoo Boise has two zebra:
 - Hope is the female. She has a very short stripe on her left flank.
   <br>
   <br>
-<img src="pics/zebras.jpg" class="inline"/>
+<img src="/pics/zebras.jpg" class="inline"/>
 </details>
 
 African Schoolhouse Terrariums:
@@ -208,7 +208,7 @@ Zoo Boise has one sand boa:
 - Unnamed male
   <br>
   <br>
-<img src="pics/sand_boa.jpg" class="inline"/>
+<img src="/pics/sand_boa.jpg" class="inline"/>
 </details>
 
 <details><summary>Ornate Horned Frog (aka Pacman Frog)</summary>
@@ -218,7 +218,7 @@ Zoo Boise has one Ornate Horned Frog:
 - Clyde
   <br>
   <br>
-<img src="pics/ornate_horned_frog.jpg" class="inline"/>
+<img src="/pics/ornate_horned_frog.jpg" class="inline"/>
 </details>
 
 <details><summary>Amazon Milk Frog</summary>
@@ -226,7 +226,7 @@ Zoo Boise has one Ornate Horned Frog:
 Zoo Boise has 5, unnamed Amazon milk frogs, in addition to tadpoles:
   <br>
   <br>
-<img src="pics/amazon_milk_frogs.jpg" class="inline"/>
+<img src="/pics/amazon_milk_frogs.jpg" class="inline"/>
 </details>
 
 <details><summary>Lesser Hedgehog Tenrec</summary>
@@ -239,5 +239,5 @@ Zoo Boise has one tenrec:
   Despite her name, tenrecs have zero relation to hedgehogs. Their similar anatomy is a great example of convergent evolution.
   <br>
   <br>
-<img src="pics/tenrec.jpg" class="inline"/>
+<img src="/pics/tenrec.jpg" class="inline"/>
 </details>

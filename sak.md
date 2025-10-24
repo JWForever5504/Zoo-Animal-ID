@@ -3,7 +3,7 @@ title: Small Animal Kingdom
 permalink: /sak/
 ---
 
-<img src="pics/map/sak_map.png" class="inline"/>
+<img src="/pics/map/sak_map.png" class="inline"/>
 
 <details><summary>Aldabra Tortoise</summary>
   <br>
@@ -17,7 +17,7 @@ Zoo Boise has two Aldabra tortoises:
   Mr. and Miss Mac are separated due to Miss Mac's scoliosis. If Mr. Mac attempted to mate with Miss Mac, it is very possible the pressure would break her spine. Their previous exhibits had them completely isolated from one another, but the newer one allows them to physically interact while having a separate space.
   <br>
   <br>
-<img src="pics/aldabra_tortoises.jpg" class="inline"/>
+<img src="/pics/aldabra_tortoises.jpg" class="inline"/>
 </details>
 
 <details><summary>Sand Cat</summary>
@@ -29,7 +29,7 @@ Zoo Boise has two sand cats:
 - Simba is the bigger male. He is somewhat stocky, which is much more obvious when they are near each other.
   <br>
   <br>
-<img src="pics/sand_cats.png" class="inline"/>
+<img src="/pics/sand_cats.png" class="inline"/>
 </details>
 
 <details><summary>Spider Monkey</summary>
@@ -49,7 +49,7 @@ Zoo Boise has two spider monkeys:
   <br>A great talking point with guests is that to keep Elvis comfortable, he only has female keepers. Keepers also always leave both of them a clear path out of training sessions so that they never feel forced to do anything. It's also good to talk about why some animals don't make good pets.
   <br>
   <br>
-<img src="pics/spider_monkeys.jpg" class="inline"/>
+<img src="/pics/spider_monkeys.jpg" class="inline"/>
 </details>
 
 <details><summary>Grand Cayman Blue Iguana</summary>
@@ -73,7 +73,7 @@ Zoo Boise has one prehensile-tailed porcupine:
   As a nocturnal animal, he is often asleep for much of the day. He will be much more active in the morning, late afternoon/evening, and during feeding/training
   <br>
   <br>
-<img src="pics/ozzy.jpg" class="inline"/>
+<img src="/pics/ozzy.jpg" class="inline"/>
 </details>
 
 <details><summary>Prehensile-Tailed Skink</summary>
@@ -83,7 +83,7 @@ Zoo Boise has one prehensile-tailed skink:
 - Clarence is a male. 
   <br>
   <br>
-<img src="pics/clarence.jpg" class="inline"/>
+<img src="/pics/clarence.jpg" class="inline"/>
 </details>
 
 <details><summary>Green Tree Python</summary>
@@ -93,7 +93,7 @@ Zoo Boise has one prehensile-tailed skink:
 - Stem is a female. 
   <br>
   <br>
-<img src="pics/stem.jpg" class="inline"/>
+<img src="/pics/stem.jpg" class="inline"/>
 </details>
 
 <details><summary>Madagascar Hissing Cockroach</summary>
@@ -105,7 +105,7 @@ Zoo Boise has a large amount of Madagascar Hissing Cockroaches:
 - Small, white cockroaches are juveniles who have recently molted. They regain pigment within a few hours, and are not albino
   <br>
   <br>
-<img src="pics/cockroaches.jpg" class="inline"/>
+<img src="/pics/cockroaches.jpg" class="inline"/>
 </details>
 
 <details><summary>Cotton Top Tamarin</summary>
@@ -123,7 +123,7 @@ Zoo Boise has five cotton top tamarins:
 - Jazzy is the youngest female born to Mimi.
   <br>
   <br>
-<img src="pics/tamarins.jpg" class="inline"/>
+<img src="/pics/tamarins.jpg" class="inline"/>
 </details>
 
 <details><summary>Slender-Tailed Meerkat</summary>
@@ -141,5 +141,5 @@ Zoo Boise has a five meerkats:
 - Twitch is a male. He is one of Kijani and Peanut's triplets
   <br>
   <br>
-<img src="pics/meerkats.jpg" class="inline"/>
+<img src="/pics/meerkats.jpg" class="inline"/>
 </details>

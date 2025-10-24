@@ -3,7 +3,7 @@ title: Plaza
 permalink: /plaza/
 ---
 
-<img src="pics/map/plaza_map.png" class="inline"/>
+<img src="/pics/map/plaza_map.png" class="inline"/>
 
 <details><summary>White-Handed Gibbons</summary>
   <br>
@@ -23,7 +23,7 @@ Your browser does not support the audio element.
 </audio>
   <br>
   <br>
-<img src="pics/gibbons.jpg" class="inline"/>
+<img src="/pics/gibbons.jpg" class="inline"/>
 </details>
 
 <details><summary>Sarus Crane</summary>
@@ -33,7 +33,7 @@ Zoo Boise has one sarus crane:
 - Claudia gets very excited when her keepers are nearby, and she frequently dances for them. She also makes a trumpeting sound that could be mistaken for elephants.
   <br>
   <br>
-<img src="pics/sarus_crane.jpg" class="inline"/>
+<img src="/pics/sarus_crane.jpg" class="inline"/>
 </details>
 
 <details><summary>Southern Ground Hornbill</summary>
@@ -43,7 +43,7 @@ Zoo Boise has one southern ground hornbill in the plaza:
 - Toogle is a favorite of guests, volunteers, and staff! He was hand-raised due to special circumstances, so he loves showing off his treasures and food (typically a mouse or chick) to shocked guests. He makes a distinctive booming sound, which can be heard in the surrounding areas.
   <br>
   <br>
-<img src="pics/toogle.jpg" class="inline"/>
+<img src="/pics/toogle.jpg" class="inline"/>
 </details>
 
 <details><summary>Chinese Red Pandas</summary>
@@ -54,12 +54,12 @@ Zoo Boise has three Chinese red pandas, a pair and an individual:
   <br>
 - Stevie is the female in the pair. She is much more active than Jasper, but also likes to nest in one of the doors to the bridge. She is also lighter in color and has a kink in her tail. She was born in 2022 at the Milwaukee County Zoo and moved here in May 2023.
   <br>
-<img src="pics/styans.png" class="inline"/>
+<img src="/pics/styans.png" class="inline"/>
   <br>
 - Rylan is the individual female Chinese Red Panda. She is the youngest of both the Chinese and Himalayan Red Pandas. Additionally, she will likely be matched with mate at a future date. She was born in 2024 at the Lincoln Park Zoo and moved here in May 2025. 
   <br>
   <br>
-<img src="pics/rylan.JPEG" class="inline"/>
+<img src="/pics/rylan.JPEG" class="inline"/>
 </details>
 
 <details><summary>Himalayan Red Panda</summary>
@@ -69,5 +69,5 @@ Zoo Boise has one Himalayan red panda:
 - Pumori is the one male Himalayan Red Panda. He will likely receive a name at Zoobilee. Additionally, he will potentially be matched with mate at a future date. He was born in 2015 at the Rosamond Gifford Zoo and moved here in May 2025.
   <br>
   <br>
-<img src="pics/himalayan.JPEG" class="inline"/>
+<img src="/pics/himalayan.JPEG" class="inline"/>
 </details>
