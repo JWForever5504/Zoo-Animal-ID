@@ -1,4 +1,6 @@
 ---
 title: Gorongosa National Park
-permalink: /gorongosa
+permalink: /gorongosa/
 ---
+
+<img src="pics/gorongosa_map.png" class="inline"/>

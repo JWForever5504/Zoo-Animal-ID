@@ -1,6 +1,6 @@
 ---
-title: African Plains
-permalink: /africa
+title: African Plains & Penguin Area
+permalink: /africa/
 ---
 
 <img src="pics/ap_map.png" class="inline"/>

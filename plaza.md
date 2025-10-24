@@ -1,6 +1,6 @@
 ---
 title: Plaza
-permalink: /plaza
+permalink: /plaza/
 ---
 
 <img src="pics/plaza_map.png" class="inline"/>

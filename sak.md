@@ -1,7 +1,9 @@
 ---
 title: Small Animal Kingdom
-permalink: /sak
+permalink: /sak/
 ---
+
+<img src="pics/sak_map.png" class="inline"/>
 
 <details><summary>Aldabra Tortoise</summary>
   <br>
